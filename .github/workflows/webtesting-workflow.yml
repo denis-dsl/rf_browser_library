@@ -1,5 +1,5 @@
-name: Run WEB Tests - denis-dsl
-run-name: On Push - Web Tests Run
+name: Run WEB Tests
+run-name: On Push - Web Tests Run - @denis-dsl
 on: [push]
 
 jobs:
